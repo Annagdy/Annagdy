@@ -1,0 +1,12 @@
+*.c linguist-detectable=true
+*.cpp linguist-detectable=true
+*.dart linguist-detectable=true
+*.py linguist-detectable=true
+*.ipynb linguist-detectable=true
+*.hs linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+*.tex linguist-detectable=true
+*.sql linguist-detectable=true
+*.md linguist-detectable=true   
