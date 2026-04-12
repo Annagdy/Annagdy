@@ -6,13 +6,14 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="/Annagdy/images/Pixel Jeff X Divoom - Pixel Jeff.gif" width="100" alt="Coding GIF">
+  <img src="https://raw.githubusercontent.com/Annagdy/Annagdy/main/images/Pixel%20Jeff%20X%20Divoom%20-%20Pixel%20Jeff.gif?raw=true" width="410" alt="Coding GIF">   
   <p style="font-size: 12px; color: #888;">Progress, not perfection.</p>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6cbd30&random=false&width=400&height=40&lines=Hi%2C+Anna+here!" alt="Typing SVG"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CBD30&center=true&vCenter=true&width=500&lines=Hi%2C+Anna+here!" alt="Typing SVG" /></a>
   <br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6CBD30&center=true&vCenter=true&width=500&lines=Coffee-fueled+coder+with+a+love+for+pixels+and+Python.+%E2%98%95%F0%9F%90%8D" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
