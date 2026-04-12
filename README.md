@@ -18,8 +18,8 @@
 
 <p align="center">
   &nbsp;
-  <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
+  <a href="https://github.com/Annagodoy?tab=followers">
+    <img src="https://img.shields.io/github/followers/Annagodoy?style=social" alt="Followers" />
   </a>
 </p>
 
