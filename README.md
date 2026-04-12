@@ -6,12 +6,12 @@
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://raw.githubusercontent.com/Annagdy/Annagdy/main/images/Pixel%20Jeff%20X%20Divoom%20-%20Pixel%20Jeff.gif?raw=true" width="410" alt="Coding GIF">   
+  <img class="image" src="https://raw.githubusercontent.com/Annagdy/Annagdy/main/images/Pixel%20Jeff%20X%20Divoom%20-%20Pixel%20Jeff.gif?raw=true" width="410" alt="Pixel Jeff X Divoom - Behance">
   <p style="font-size: 12px; color: #888;">Progress, not perfection.</p>
-</div>
+</div> 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CBD30&center=true&vCenter=true&width=500&lines=Hi%2C+Anna+here!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CBD30&center=true&vCenter=true&width=500&lines=Hi%2C+I'm Anna!" alt="Typing SVG" /></a>
   <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6CBD30&center=true&vCenter=true&width=500&lines=Coffee-fueled+coder+with+a+love+for+pixels+and+Python.+%E2%98%95%F0%9F%90%8D" alt="Typing SVG" /></a>
 </p>
@@ -53,6 +53,8 @@
 
   ## 🛠️ &nbsp;Languages and Tools
   
+  ![Top Languages](https://github-readme-stats-red-nine-46.vercel.app/api/top-langs/?username=Annagdy&theme=dark&langs_count=100&layout=compact&text_color=737987&title_color=737987&card_width=470&border_color=484461&bg_color=0d1117)   
+
   ### Languages
   
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
@@ -110,5 +112,12 @@
 
 </div>
 
+<div>
+
+  ## 📊 &nbsp;Contributions
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Annagdy&theme=dark&date_format=j%20M%5B%20Y%5D&card_height=40&background=0d1117&currStreakNum=737987&border=484461&stroke=484461&sideNums=737987&sideLabels=737987&hide_current_streak=true)](https://git.io/streak-stats) 
+
+</div>
 
 <!-- ## 📚 &nbsp;My Projects -->
