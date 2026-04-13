@@ -8,7 +8,7 @@
 <div align="center" style="margin-top: 10px;">
   <img class="image" src="https://raw.githubusercontent.com/Annagdy/Annagdy/main/images/Pixel%20Jeff%20X%20Divoom%20-%20Pixel%20Jeff.gif?raw=true" width="410" alt="Pixel Jeff X Divoom - Behance">
   <p style="font-size: 12px; color: #888;">Progress, not perfection.</p>
-</div> 4
+</div> 
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6CBD30&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anna!" alt="Typing SVG" /></a>
