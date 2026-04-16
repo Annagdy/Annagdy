@@ -108,7 +108,8 @@
 
   ### 🎮 Game Dev
   [![Instagram](https://img.shields.io/badge/-ghost_idev-black?style=rounded&logo=Instagram&logoColor=green)](https://www.instagram.com/ghost_idev/)
-  [![Itch.io](https://img.shields.io/badge/-ghost_idev-black?logo=%20music&logoColor=white)](https://itch.io/profile/ghost-idev)
+  [![Itch.io](https://img.shields.io/badge/-ghost_idev_(Itch.io)-black?logo=%20music&logoColor=white)](https://itch.io/profile/ghost-idev)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)]((mailto:ghost.id3v@gmail.com))
 
 </div>
 
